@@ -9,6 +9,7 @@ I have worked on Frontend technologies(HTML5, CSS3, BootStraps, JavaScripts, and
 
 I have a Gold badge for Java on HackerRank.
 Skillful in Python, C, Java, and Data Structure and Algorithms with hands-on experience with Web Development tools.
+
 Aspiring for a challenging career in Software Development as to use my learned skills and experience for best results.
 
 I love Graphic Designing, Video Editing, Photo Editing, and learning new skills.
