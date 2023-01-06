@@ -22,6 +22,4 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=isinghabhishek&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=isinghabhishek&theme=github-light&mode=weekly)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=isinghabhishek&theme=nightowl&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinghabhishek&layout=compact)](https://github.com/isinghabhishek/github-readme-stats)
