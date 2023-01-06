@@ -20,4 +20,8 @@ isinghabhishek/isinghabhishek is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=isinghabhishek&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=isinghabhishek&theme=github-light&mode=weekly)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=isinghabhishek&theme=nightowl&mode=weekly)](https://git.io/streak-stats)
