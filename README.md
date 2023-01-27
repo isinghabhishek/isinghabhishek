@@ -23,3 +23,5 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://streak-stats.demolab.com?user=isinghabhishek&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinghabhishek&layout=compact&theme=dark)](https://github.com/isinghabhishek/github-readme-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isinghabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek-Singh" /> </p>
