@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <h3>I am experienced in Web Development for developing Web Applications.
-I have worked on Frontend technologies(HTML5, CSS3, BootStraps, JavaScripts, and other JS libraries like ReactJS) and Backend technologies(Express) and for DataBase(MongoDB) for almost a year and had done several projects.
+I have worked on MERN Stack, both Frontend technologies(JavaScripts, ReactJS, TailWind CSS, HTML) and Backend technologies(NodeJS, ExpressJS) and for DataBase(MongoDB) for almost a year and had done several projects.
 
 I have a Gold badge for Java on HackerRank.
 Skillful in Python, C, Java, and Data Structure and Algorithms with hands-on experience with Web Development tools.
