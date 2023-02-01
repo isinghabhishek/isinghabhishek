@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
-<h3 align="center">A passionate Software developer from India</h3>
-<h3>I am experienced in Web Development for developing Web Applications.
+<h3 align="center">A passionate Software Developer from India</h3>
+<h4>I am experienced in Web Development for developing Web Applications.
 I have worked on MERN Stack, both Frontend technologies(JavaScripts, ReactJS, TailWind CSS, HTML) and Backend technologies(NodeJS, ExpressJS) and for DataBase(MongoDB) for almost a year and had done several projects.
 
 I have a Gold badge for Java on HackerRank.
@@ -15,7 +15,7 @@ Aspiring for a challenging career in Software Development as to use my learned s
 
 I love Graphic Designing, Video Editing, Photo Editing, and learning new skills.
 
-Along with this love for animals & learning is constant.</h3>
+Along with this love for animals & learning is constant.</h4>
 <!---
 isinghabhishek/isinghabhishek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -32,6 +32,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://auth.geeksforgeeks.org/user/isinghabhishek05/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/isinghabhishek05/practice" height="30" width="40" /></a>
 </p>
 
+## Badges
 [![GitHub Streak](https://streak-stats.demolab.com?user=isinghabhishek&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinghabhishek&layout=compact&theme=dark)](https://github.com/isinghabhishek/github-readme-stats)
