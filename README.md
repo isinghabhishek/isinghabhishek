@@ -3,12 +3,12 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
+<h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
 <table style="border: none;">
 <tr>
 <td>
-<h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
-<h5>
+<h5 align="left">
 I am experienced in Web Development for developing Web Applications.
  
 I have worked on MERN Stack, both Frontend technologies(JavaScripts, ReactJS,
