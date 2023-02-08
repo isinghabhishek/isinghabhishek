@@ -22,6 +22,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isinghabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="isinghabhishek" /> </p>
 
+<a href="https://app.daily.dev/abhishekdev"><img src="https://api.daily.dev/devcards/b123d3498a0b4f1fbb1a98a09e1759f8.png?r=i7b" width="400" alt="Abhishek Singh's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/isinghabhishek1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isinghabhishek1" height="30" width="40" /></a>
