@@ -10,21 +10,17 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 <h4>
 I am experienced in Web Development for developing Web Applications.
-I have worked on MERN Stack, both Frontend technologies(JavaScripts, ReactJS, TailWind CSS, HTML) and Backend technologies(NodeJS, ExpressJS) and for DataBase(MongoDB) for almost a year and had done several projects.
+I have worked on MERN Stack, both Frontend technologies(JavaScripts, ReactJS, TailWind CSS, HTML)
+and Backend technologies(NodeJS, ExpressJS) and for DataBase(MongoDB) for almost a year and had done several projects.
 
 I have a Gold badge for Java on HackerRank.
 Skillful in Python, C, Java, and Data Structure and Algorithms with hands-on experience with Web Development tools.
 Aspiring for a challenging career in Software Development as to use my learned skills and experience for best results.
 I love Graphic Designing, Video Editing, Photo Editing, and learning new skills.
 Along with this love for animals & learning is constant.
- 
 </h4>
-<!---
-isinghabhishek/isinghabhishek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isinghabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="isinghabhishek" /> </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.leetcode.com/isinghabhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="isinghabhishek" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/isinghabhishek05/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/isinghabhishek05/practice" height="30" width="40" /></a>
 </p>
- </td>
+</td>
 <a href="https://app.daily.dev/abhishekdev"><img src="https://api.daily.dev/devcards/b123d3498a0b4f1fbb1a98a09e1759f8.png?r=i7b" width="400" alt="Abhishek Singh's Dev Card"/></a>
 <td>
 </td>
