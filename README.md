@@ -8,22 +8,20 @@
 <table style="border: none;">
 <tr>
 <td>
-<h5 align="left">
-I am experienced in Web Development for developing Web Applications.
+- I am experienced in Web Development for developing Web Applications.
  
-I have worked on MERN Stack, both Frontend technologies(JavaScripts, ReactJS,
+- I have worked on MERN Stack, both Frontend technologies(JavaScripts, ReactJS,
 TailWind CSS, HTML)
 and Backend technologies(NodeJS, ExpressJS) and for DataBase(MongoDB) 
 for almost a year and had done several projects.
 
-I have a Gold badge for Java on HackerRank.
+- I have a Gold badge for Java on HackerRank.
 Skillful in Python, C, Java, and Data Structure 
 and Algorithms with hands-on experience with Web Development tools.
-Aspiring for a challenging career in Software Development 
+- Aspiring for a challenging career in Software Development 
 as to use my learned skills and experience for best results.
-I love Graphic Designing, Video Editing, Photo Editing, and learning new skills.
+- I love Graphic Designing, Video Editing, Photo Editing, and learning new skills.
 Along with this love for animals & learning is constant.
-</h5>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isinghabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="isinghabhishek" /> </p>
 
