@@ -9,9 +9,8 @@
 <tr>
 <td>
  
-- I am experienced in Web Development for developing Web Applications.
- 
-- I have working on MERN Stack, 
+- I'm experienced in Web Development for developing Web Applications.
+- I'm currently working on MERN Stack, 
 - Frontend technologies(JavaScripts, ReactJS,
 TailWind CSS, HTML)
 - Backend technologies(NodeJS, ExpressJS) and for DataBase(MongoDB) 
@@ -20,6 +19,10 @@ for almost a year and had done several projects.
 as to use my learned skills and experience for best results.
 - I love Graphic Designing, Video Editing, Photo Editing, and learning new skills.
 - Along with this love for animals & learning is constant.
+- Creating content on [Twitter](https://twitter.com/isinghabhishek1)
+ 
+<a href="https://twitter.com/isinghabhishek1" target="_blank" rel="noreferrer"><img 
+src="https://img.shields.io/twitter/follow/isinghabhishek1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a> 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isinghabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="isinghabhishek" /> </p>
 
