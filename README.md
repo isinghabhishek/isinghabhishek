@@ -32,8 +32,8 @@ Along with this love for animals & learning is constant.
 <a href="https://auth.geeksforgeeks.org/user/isinghabhishek05/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/isinghabhishek05/practice" height="30" width="40" /></a>
 </p>
 </td>
-<a href="https://app.daily.dev/abhishekdev"><img src="https://api.daily.dev/devcards/b123d3498a0b4f1fbb1a98a09e1759f8.png?r=i7b" width="400" alt="Abhishek Singh's Dev Card"/></a>
 <td>
+<a href="https://app.daily.dev/abhishekdev"><img src="https://api.daily.dev/devcards/b123d3498a0b4f1fbb1a98a09e1759f8.png?r=i7b" width="400" alt="Abhishek Singh's Dev Card"/></a>
 </td>
 </tr>
 </table>
