@@ -43,9 +43,9 @@ src="https://img.shields.io/twitter/follow/isinghabhishek1?logo=twitter&style=fo
 </table>
  
 ## Badges
-[![GitHub Streak](https://streak-stats.demolab.com?user=isinghabhishek&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinghabhishek&layout=compact&theme=dark)](https://github.com/isinghabhishek/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=isinghabhishek&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isinghabhishek&theme=dark&show_icons=true&locale=en" alt="isinghabhishek" /></p>
 
