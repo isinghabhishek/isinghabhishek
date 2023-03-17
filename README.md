@@ -9,8 +9,11 @@
 <tr>
 <td>
 - I have Gold badge for Java and Problem Solving on HackerRank.
+ 
 - I'm experienced in Web Development for developing Web Applications.
+ 
 - I'm currently working on MERN Stack, 
+ 
 - Frontend technologies(JavaScripts, ReactJS,
 TailWind CSS, HTML)
  
