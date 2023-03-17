@@ -8,7 +8,7 @@
 <table style="border: none;">
 <tr>
 <td>
- 
+- I have Gold badge for Java and Problem Solving on HackerRank.
 - I'm experienced in Web Development for developing Web Applications.
 - I'm currently working on MERN Stack, 
 - Frontend technologies(JavaScripts, ReactJS,
@@ -17,7 +17,6 @@ TailWind CSS, HTML)
 for almost a year and had done several projects.
 - Aspiring for a challenging career in Software Development 
 as to use my learned skills and experience for best results.
-- I love Graphic Designing, Video Editing, Photo Editing, and learning new skills.
 - Along with this love for animals & learning is constant.
 - Creating content on [Twitter](https://twitter.com/isinghabhishek1)
  
@@ -49,4 +48,4 @@ src="https://img.shields.io/twitter/follow/isinghabhishek1?logo=twitter&style=fo
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isinghabhishek&theme=dark&show_icons=true&locale=en" alt="isinghabhishek" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isinghabhishek&theme=dark" alt="isinghabhishek" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isinghabhishek&theme=dark" alt="isinghabhishek" /></p>
