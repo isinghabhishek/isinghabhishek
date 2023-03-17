@@ -8,6 +8,7 @@
 <table style="border: none;">
 <tr>
 <td>
+ 
 - I have Gold badge for Java and Problem Solving on HackerRank.
  
 - I'm experienced in Web Development for developing Web Applications.
