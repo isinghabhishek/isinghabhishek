@@ -13,10 +13,13 @@
 - I'm currently working on MERN Stack, 
 - Frontend technologies(JavaScripts, ReactJS,
 TailWind CSS, HTML)
+ 
 - Backend technologies(NodeJS, ExpressJS) and for DataBase(MongoDB) 
 for almost a year and had done several projects.
+ 
 - Aspiring for a challenging career in Software Development 
 as to use my learned skills and experience for best results.
+ 
 - Along with this love for animals & learning is constant.
 - Creating content on [Twitter](https://twitter.com/isinghabhishek1)
  
