@@ -13,12 +13,6 @@
  
 - I'm experienced in Web Development for developing Web Applications.
  
-- Frontend technologies(JavaScripts, ReactJS,
-TailWind CSS, HTML)
- 
-- Backend technologies(NodeJS, ExpressJS) and for DataBase(MongoDB) 
-for almost a year and had done several projects.
- 
 - Creating content on [Twitter](https://twitter.com/isinghabhishek1)
  
 <a href="https://twitter.com/isinghabhishek1" target="_blank" rel="noreferrer"><img 
