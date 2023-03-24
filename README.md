@@ -11,7 +11,10 @@
  
 - I have Gold badge for Java and Problem Solving on HackerRank.
  
-- I'm experienced in Web Development for developing Web Applications.
+- Skillful in Java, and Data Structure and Algorithms, Python with 
+ hands-on experience with Web Development technology.
+ 
+- I develop Software and love to meet new people!
  
 - Creating content on [Twitter](https://twitter.com/isinghabhishek1)
  
