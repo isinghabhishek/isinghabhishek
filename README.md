@@ -9,7 +9,10 @@
 <tr>
 <td>
  
-- I have Gold badge for Java and Problem Solving on HackerRank.
+- I have gained experience working on both the frontend technologies 
+ (such as JavaScript, ReactJS, HTML5, Tailwind CSS, and Bootstrap) and 
+ backend technologies (such as NodeJS and ExpressJS) of the MERN stack. 
+ Additionally, I have worked with MongoDB as a database and have completed several projects.
  
 - As I aspire to take on new challenges in software development, 
  I am confident that my skills and experience will help me deliver the best results.
