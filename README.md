@@ -51,7 +51,7 @@ As one of the most popular programming languages, JavaScript has a wide range of
 <p align="left">
  <a href="https://abhiisheksingh.hashnode.dev/a-comprehensive-golang-tutorial-for-beginners-and-experienced-developers" title="A Comprehensive Golang Tutorial for Beginners and Experienced Developers" ><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681474337660/f2f72d99-ea8b-42c7-9993-2433f4a4fc9c.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="A Comprehensive Golang Tutorial for Beginners and Experienced Developers" width="250px" align="left"/></a>
  
-Golang (also known as Go) might be just what you need. Developed by Google in 2007, Golang has become increasingly popular in recent years due to its simplicity, efficiency, and support for concurrent programming. Whether you're a beginner or an experienced developer, this tutorial will give you a solid foundation in Golang and some advanced concepts to take your skills to the next level. </p> 
+Golang (also known as Go) might be just what you need. Developed by Google in 2007, Golang has become increasingly popular in recent years due to its simplicity, efficiency, and support for concurrent programming. Whether you're a beginner or an experienced developer, this tutorial will give you a solid foundation in Golang and some advanced concepts to take your skills to the next level. </p> <br/>
 
 <!-- HashNode Blog End  -->
  
