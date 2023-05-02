@@ -46,12 +46,13 @@ src="https://img.shields.io/twitter/follow/isinghabhishek1?logo=twitter&style=fo
  <a href="https://abhiisheksingh.hashnode.dev/a-comprehensive-golang-tutorial-for-beginners-and-experienced-developers" title="JavaScript Tutorial: Everything to Learn About JavaScript Before Learning React" ><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683048155707/6a7699bd-bec1-44ba-a546-2c73b27b75aa.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Everything to Learn About JavaScript Before Learning React" width="250px" align="left"/></a>
  <a href="https://abhiisheksingh.hashnode.dev/a-comprehensive-golang-tutorial-for-beginners-and-experienced-developers" title="A Comprehensive Golang Tutorial for Beginners and Experienced Developers" ><strong> </strong></a>
  <br\> As one of the most popular programming languages, JavaScript has a wide range of applications, including building web applications, server-side applications, mobile applications, and even desktop applications. As a software developer, it is essential to learn JavaScript, especially if you plan on working with front-end technologies like React. </p> 
- 
+ <br/> 
 
 <p align="left">
  <a href="https://abhiisheksingh.hashnode.dev/a-comprehensive-golang-tutorial-for-beginners-and-experienced-developers" title="A Comprehensive Golang Tutorial for Beginners and Experienced Developers" ><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681474337660/f2f72d99-ea8b-42c7-9993-2433f4a4fc9c.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="A Comprehensive Golang Tutorial for Beginners and Experienced Developers" width="250px" align="left"/></a>
  <a href="https://abhiisheksingh.hashnode.dev/a-comprehensive-golang-tutorial-for-beginners-and-experienced-developers" title="A Comprehensive Golang Tutorial for Beginners and Experienced Developers" ><strong> </strong></a>
- <br\> If you're a software developer looking to learn a new programming language, Golang (also known as Go) might be just what you need. Developed by Google in 2007, Golang has become increasingly popular in recent years due to its simplicity, efficiency, and support for concurrent programming. Whether you're a beginner or an experienced developer, this tutorial will give you a solid foundation in Golang and some advanced concepts to take your skills to the next level. </p> <br\>
+ <br\> Golang (also known as Go) might be just what you need. Developed by Google in 2007, Golang has become increasingly popular in recent years due to its simplicity, efficiency, and support for concurrent programming. Whether you're a beginner or an experienced developer, this tutorial will give you a solid foundation in Golang and some advanced concepts to take your skills to the next level. </p> 
+ <br\>
 <!-- HashNode Blog End  -->
  
 
