@@ -43,7 +43,7 @@ src="https://img.shields.io/twitter/follow/isinghabhishek1?logo=twitter&style=fo
 <!-- Hashnode Blog Start -->
 
 <p align="left">
- <a href="https://abhiisheksingh.hashnode.dev/a-comprehensive-golang-tutorial-for-beginners-and-experienced-developers" title="JavaScript Tutorial: Everything to Learn About JavaScript Before Learning React" ><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683048155707/6a7699bd-bec1-44ba-a546-2c73b27b75aa.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Everything to Learn About JavaScript Before Learning React" width="250px" align="left"/></a>
+ <a href="https://abhiisheksingh.hashnode.dev/javascript-tutorial-everything-to-learn-about-javascript-before-learning-react" title="JavaScript Tutorial: Everything to Learn About JavaScript Before Learning React" ><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683048155707/6a7699bd-bec1-44ba-a546-2c73b27b75aa.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Everything to Learn About JavaScript Before Learning React" width="250px" align="left"/></a>
  
 As one of the most popular programming languages, JavaScript has a wide range of applications, including building web applications, server-side applications, mobile applications, and even desktop applications. As a software developer, it is essential to learn JavaScript, especially if you plan on working with front-end technologies like React. </p> <br/>
  
