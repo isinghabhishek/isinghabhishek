@@ -8,19 +8,17 @@
 <table style="border: none;">
 <tr>
 <td>
+- I Currently working as a Software Engineer at NatWest Group. 
+- I have gained experience working on both the frontend technologies (such as ReactJS, JavaScript, HTML5, Tailwind CSS, and Bootstrap) and backend technologies (such as NodeJS and ExpressJS) of the MERN stack. 
+ Additionally, I have worked with MongoDB as a database and have created several projects.
  
-- I have gained experience working on both the frontend technologies 
- (such as JavaScript, ReactJS, HTML5, Tailwind CSS, and Bootstrap) and 
- backend technologies (such as NodeJS and ExpressJS) of the MERN stack. 
- Additionally, I have worked with MongoDB as a database and have completed several projects.
+- As I aspire to take on new challenges in software development, I'm confident that my skills and experience will help me deliver the best results.
  
-- As I aspire to take on new challenges in software development, 
- I am confident that my skills and experience will help me deliver the best results.
- 
-- I develop Software and love to meet new people!
- 
+- I Develop Software with diffrent technologies, writing blogs and creating Projects, and love to meet new people!
+
+- Software Engineer [@NatWest Group](https://www.natwestgroup.com/)
+- Former SDE Intern [@NatWest Group](https://www.natwestgroup.com/)
 - Creating content on [Twitter](https://twitter.com/isinghabhishek1)
- 
 <a href="https://twitter.com/isinghabhishek1" target="_blank" rel="noreferrer"><img 
 src="https://img.shields.io/twitter/follow/isinghabhishek1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a> 
  
