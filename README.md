@@ -21,7 +21,7 @@
  - Software Engineer [@NatWest Group](https://www.natwestgroup.com/)
  - Former SDE Intern [@NatWest Group](https://www.natwestgroup.com/)
 
- - Creating content on [Twitter](https://twitter.com/isinghabhishek1)
+ - Creating content on [Twitter](https://twitter.com/isinghabhishek1), ✍️ [Blog](https://hashnode.com/@abhiishek).
 
 <a href="https://twitter.com/isinghabhishek1" target="_blank" rel="noreferrer"><img 
 src="https://img.shields.io/twitter/follow/isinghabhishek1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a> 
