@@ -8,6 +8,7 @@
 <table style="border: none;">
 <tr>
 <td>
+ 
  - I currently working as a Software Engineer at NatWest Group. 
  
  - I have gained experience working on both the frontend technologies (ReactJS, JavaScript, HTML5, Tailwind CSS, and Bootstrap) and backend technologies (NodeJS and ExpressJS) of the MERN stack. 
