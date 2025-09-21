@@ -57,7 +57,6 @@ Golang (also known as Go) might be just what you need. Developed by Google in 20
 
 <!-- HashNode Blog End  -->
  
-
  ## Badges
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinghabhishek&layout=compact&theme=dark)](https://github.com/isinghabhishek/github-readme-stats)
 
