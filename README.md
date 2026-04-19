@@ -14,7 +14,7 @@
 - 💼 Former Software Engineer & SDE Intern at **[NatWest Group](https://www.natwestgroup.com/)**
 - ☁️ **AWS Certified Data Engineer** — Associate
 - 🛠️ Working across the full **MERN Stack** — React, Node, Express & MongoDB
-- 🤖 Exploring **Agentic AI** — using tools like Antigravity, Cursor, Claude Code, Codex & Kiro
+- 🤖 Exploring **Agentic AI** — using tools like Claude Code, Codex, Google Gemini, Microsoft Copilot, Kiro & Cursor
 - 🧠 Keeping up with the latest in **AI, LLMs & Generative AI**
 - ✍️ Writing tech blogs on **[Hashnode](https://hashnode.com/@abhiishek)**
 - 🐦 Sharing thoughts on **[Twitter](https://twitter.com/isinghabhishek1)**
@@ -72,6 +72,8 @@
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-258FFA?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Kiro](https://img.shields.io/badge/Kiro-0891b2?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
