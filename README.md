@@ -1,23 +1,26 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0e75b6&height=200&section=header&text=Abhishek%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20MERN%20Stack%20%7C%20Open%20Source&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:7c3aed&height=200&section=header&text=Abhishek%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20AWS%20Certified%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" />
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+NatWest+Group;MERN+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=Data+Engineer+%40+NatWest+Group;AWS+Certified+Data+Engineer;Agentic+AI+%26+LLM+Explorer;Open+Source+Enthusiast;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🏢 Software Engineer at **[NatWest Group](https://www.natwestgroup.com/)**
-- 💼 Former SDE Intern at **[NatWest Group](https://www.natwestgroup.com/)**
+- 🏢 Data Engineer at **[NatWest Group](https://www.natwestgroup.com/)**
+- 💼 Former Software Engineer & SDE Intern at **[NatWest Group](https://www.natwestgroup.com/)**
+- ☁️ **AWS Certified Data Engineer** — Associate
 - 🛠️ Working across the full **MERN Stack** — React, Node, Express & MongoDB
+- 🤖 Exploring **Agentic AI** — using tools like Antigravity, Cursor, Claude Code, Codex & Kiro
+- 🧠 Keeping up with the latest in **AI, LLMs & Generative AI**
 - ✍️ Writing tech blogs on **[Hashnode](https://hashnode.com/@abhiishek)**
 - 🐦 Sharing thoughts on **[Twitter](https://twitter.com/isinghabhishek1)**
 - 🌱 Currently exploring **Rust** and **Golang**
 - 🤝 Open to collaborating on interesting open source projects
-- 💬 Ask me about **JavaScript, React, Node.js**
+- 💬 Ask me about **Data Engineering, AWS, JavaScript, React**
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=isinghabhishek&label=Profile%20Views&color=0891b2&style=flat-square" alt="profile views" />
@@ -54,6 +57,23 @@
 ---
 
 ## 🛠️ Tech Stack
+
+**Data Engineering**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI & Agentic Tools**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-0891b2?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 **Frontend**
 
@@ -131,5 +151,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0e75b6&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:7c3aed&height=100&section=footer" />
 </div>
