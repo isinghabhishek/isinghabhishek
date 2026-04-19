@@ -1,65 +1,135 @@
-<!-- - 👋 Hi, I’m @isinghabhishek
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
-<h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
-<table style="border: none;">
-<tr>
-<td>
- 
- - I currently working as a Software Engineer at NatWest Group. 
- 
- - I have gained experience working on both the frontend technologies (ReactJS, JavaScript, HTML5, Tailwind CSS, and Bootstrap) and backend technologies (NodeJS and ExpressJS) of the MERN stack. 
- Additionally, I have worked with MongoDB as database and have created several projects.
- 
- - As I aspire to take on new challenges in software development, I'm confident that my skills and experience will help me deliver the best results.
- 
- - I Develop Software with diffrent technologies, writing blogs and creating Projects, and love to meet new people!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0e75b6&height=200&section=header&text=Abhishek%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20MERN%20Stack%20%7C%20Open%20Source&descAlignY=58&descSize=18" />
+</div>
 
- - Software Engineer [@NatWest Group](https://www.natwestgroup.com/)
- - Former SDE Intern [@NatWest Group](https://www.natwestgroup.com/)
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+NatWest+Group;MERN+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+</h3>
 
- - Creating content on [Twitter](https://twitter.com/isinghabhishek1), ✍️ [Blog](https://hashnode.com/@abhiishek).
+---
 
-<a href="https://twitter.com/isinghabhishek1" target="_blank" rel="noreferrer"><img 
-src="https://img.shields.io/twitter/follow/isinghabhishek1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a> 
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isinghabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="isinghabhishek" /> </p>
+## 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 🏢 Software Engineer at **[NatWest Group](https://www.natwestgroup.com/)**
+- 💼 Former SDE Intern at **[NatWest Group](https://www.natwestgroup.com/)**
+- 🛠️ Working across the full **MERN Stack** — React, Node, Express & MongoDB
+- ✍️ Writing tech blogs on **[Hashnode](https://hashnode.com/@abhiishek)**
+- 🐦 Sharing thoughts on **[Twitter](https://twitter.com/isinghabhishek1)**
+- 🌱 Currently exploring **Rust** and **Golang**
+- 🤝 Open to collaborating on interesting open source projects
+- 💬 Ask me about **JavaScript, React, Node.js**
+
 <p align="left">
-<a href="https://twitter.com/isinghabhishek1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isinghabhishek1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/isinghabhishek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isinghabhishek/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@abhiishek" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="40" height="30" /></a>
-<a href="https://www.hackerrank.com/isinghabhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="isinghabhishek" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/isinghabhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="isinghabhishek" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/isinghabhishek05/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/isinghabhishek05/practice" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=isinghabhishek&label=Profile%20Views&color=0891b2&style=flat-square" alt="profile views" />
+  <a href="https://twitter.com/isinghabhishek1">
+    <img src="https://img.shields.io/twitter/follow/isinghabhishek1?logo=twitter&style=flat-square&color=0891b2&labelColor=1c1917" />
+  </a>
 </p>
-</td>
-</tr>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://twitter.com/isinghabhishek1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/isinghabhishek/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://hashnode.com/@abhiishek" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/isinghabhishek" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/isinghabhishek" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/isinghabhishek05/practice" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend**
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Currently Learning**
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## ✍️ Latest Blog Posts
+
+<table>
+  <tr>
+    <td width="250px">
+      <a href="https://abhiisheksingh.hashnode.dev/javascript-tutorial-everything-to-learn-about-javascript-before-learning-react">
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683048155707/6a7699bd-bec1-44ba-a546-2c73b27b75aa.png?w=600&h=315&fit=crop&crop=entropy&auto=compress,format&format=webp" width="250px" alt="JS Blog" />
+      </a>
+    </td>
+    <td>
+      <a href="https://abhiisheksingh.hashnode.dev/javascript-tutorial-everything-to-learn-about-javascript-before-learning-react">
+        <strong>JavaScript Tutorial: Everything to Learn About JavaScript Before Learning React</strong>
+      </a>
+      <br/><br/>
+      JavaScript is one of the most popular programming languages with a wide range of applications — from web apps to mobile and desktop. A must-read before diving into React.
+    </td>
+  </tr>
+  <tr>
+    <td width="250px">
+      <a href="https://abhiisheksingh.hashnode.dev/a-comprehensive-golang-tutorial-for-beginners-and-experienced-developers">
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681474337660/f2f72d99-ea8b-42c7-9993-2433f4a4fc9c.png?w=600&h=315&fit=crop&crop=entropy&auto=compress,format&format=webp" width="250px" alt="Golang Blog" />
+      </a>
+    </td>
+    <td>
+      <a href="https://abhiisheksingh.hashnode.dev/a-comprehensive-golang-tutorial-for-beginners-and-experienced-developers">
+        <strong>A Comprehensive Golang Tutorial for Beginners and Experienced Developers</strong>
+      </a>
+      <br/><br/>
+      Golang — developed by Google in 2007 — is known for its simplicity, efficiency, and concurrency support. This tutorial covers everything from basics to advanced concepts.
+    </td>
+  </tr>
 </table>
 
-## My Latest Blog Posts
-<!-- Hashnode Blog Start -->
+---
 
-<p align="left">
- <a href="https://abhiisheksingh.hashnode.dev/javascript-tutorial-everything-to-learn-about-javascript-before-learning-react" title="JavaScript Tutorial: Everything to Learn About JavaScript Before Learning React" ><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683048155707/6a7699bd-bec1-44ba-a546-2c73b27b75aa.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Everything to Learn About JavaScript Before Learning React" width="250px" align="left"/></a>
-As one of the most popular programming languages, JavaScript has a wide range of applications, including building web applications, server-side applications, mobile applications, and even desktop applications. As a software developer, it is essential to learn JavaScript, especially if you plan on working with front-end technologies like React. </p> <br/>
- 
-<p align="left">
- <a href="https://abhiisheksingh.hashnode.dev/a-comprehensive-golang-tutorial-for-beginners-and-experienced-developers" title="A Comprehensive Golang Tutorial for Beginners and Experienced Developers" ><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681474337660/f2f72d99-ea8b-42c7-9993-2433f4a4fc9c.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="A Comprehensive Golang Tutorial for Beginners and Experienced Developers" width="250px" align="left"/></a>
- 
-Golang (also known as Go) might be just what you need. Developed by Google in 2007, Golang has become increasingly popular in recent years due to its simplicity, efficiency, and support for concurrent programming. Whether you're a beginner or an experienced developer, this tutorial will give you a solid foundation in Golang and some advanced concepts to take your skills to the next level. </p> <br/>
+## 📊 GitHub Stats
 
-<!-- HashNode Blog End  -->
- 
- ## Badges
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isinghabhishek&layout=compact&theme=dark)](https://github.com/isinghabhishek/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isinghabhishek&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isinghabhishek&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=isinghabhishek&theme=dark&mode=weekly)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=isinghabhishek&theme=tokyonight&hide_border=true&mode=weekly" />
+</p>
 
-<p> &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=isinghabhishek&theme=dark&show_icons=true&locale=en" alt="isinghabhishek"/> </p>
+---
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isinghabhishek&theme=dark" alt="isinghabhishek" /></p> -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0e75b6&height=100&section=footer" />
+</div>
